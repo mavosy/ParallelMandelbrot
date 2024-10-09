@@ -59,12 +59,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
 **ParallelMandelbrot** is a school project focused on generating Mandelbrot fractal images using parallel computing techniques. The project explores GPU acceleration by leveraging the Amplifier.NET library to parallelize the Mandelbrot fractal calculations, allowing for improved performance compared to traditional CPU-bound methods. While the fractal generation algorithm itself was provided as part of the course, the parallelization of the calculations using the GPU was done collaboratively with a classmate.
 
 This project serves as an educational exercise in exploring parallel computing and GPU-based optimizations for computationally expensive tasks in C#/.NET.
 
+<br/>
+
+<div align="Center">
+  <img src="MandelWindow/Images/MandelUnzoomed_screenshot.png" alt="Product Screenshot" width="400" />
+  <img src="MandelWindow/Images/MandelZoomed_screenshot.png" alt="Product Screenshot" width="400" />
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,6 +178,5 @@ Project Link: [https://github.com/mavosy/ParallelMandelbrot](https://github.com/
 [license-url]: https://github.com/mavosy/ParallelMandelbrot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/malte-von-sydow
-[product-screenshot]: images/screenshot.png
 [csharp-shield]: https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white
 [csharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
